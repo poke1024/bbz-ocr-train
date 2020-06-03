@@ -7,10 +7,10 @@ To view/edit annotations you need the following artefacts:
 2. line segmentation for each page
 3. annotations for selected lines (`annotations.db`)
 
-2. was generated with the origami OCR toolset. To obtain 1. and 2., use one of these two:
+To obtain 1. and 2., use one of these two:
 
-A. <a href="https://www.dropbox.com/sh/vqb0ky4gtdjuuws/AADnKPzQwvsklfNn38HDWZ93a?dl=0">Mini Version (1 GB).</a> Intended for viewing text annotations and for trying things out.
-B. <a href="https://www.dropbox.com/sh/mgsopnami242i8u/AAByAKVmdMACiQK72jhLLQ2Ka?dl=0">Full Version (6,8 GB).</a>. Intended for editing annotations and exporting training data.
+1. <a href="https://www.dropbox.com/sh/vqb0ky4gtdjuuws/AADnKPzQwvsklfNn38HDWZ93a?dl=0">Mini Version (1 GB).</a> Intended for viewing text annotations and for trying things out.
+2. <a href="https://www.dropbox.com/sh/mgsopnami242i8u/AAByAKVmdMACiQK72jhLLQ2Ka?dl=0">Full Version (6,8 GB).</a> Intended for editing annotations and exporting training data.
 
 Now unzip `annotate.db.zip` from this repository, put `annotate.db` inside the A./B. folder, then run:
 
